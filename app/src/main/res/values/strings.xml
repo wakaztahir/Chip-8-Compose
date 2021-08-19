@@ -2,4 +2,6 @@
     <string name="app_name">Chip-8 Emulator</string>
     <string name="chip_8_title">Chip 8</string>
     <string name="play">Play</string>
+    <string name="left_icon">Left Icon</string>
+    <string name="right_icon">Right Icon</string>
 </resources>
